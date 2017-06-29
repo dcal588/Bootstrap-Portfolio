@@ -16,3 +16,12 @@ body {
   padding:20px;
   background-color: #f5f5f5;
 }
+div.desc{
+    background-color: #000;
+    bottom: 0;
+    color: #fff;
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    width: 100%;
+}

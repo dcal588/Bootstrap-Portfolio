@@ -5,10 +5,6 @@ html {
 body {
   margin-bottom: 60px;
 }
-.img-responsive {
-  height:auto;
-  max-width:100%;
-}
 .leftzeropadding {
   padding-left:0px;
 }
